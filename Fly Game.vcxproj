@@ -148,6 +148,8 @@
     <ClInclude Include="program\Bullet.h" />
     <ClInclude Include="program\BulletManager.h" />
     <ClInclude Include="program\Camera.h" />
+    <ClInclude Include="program\ChargeSystem.h" />
+    <ClInclude Include="program\ChargeUI.h" />
     <ClInclude Include="program\Enemy.h" />
     <ClInclude Include="program\Game.h" />
     <ClInclude Include="program\GameScene.h" />
@@ -166,6 +168,8 @@
     <ClCompile Include="program\Bullet.cpp" />
     <ClCompile Include="program\BulletManager.cpp" />
     <ClCompile Include="program\Camera.cpp" />
+    <ClCompile Include="program\ChargeSystem.cpp" />
+    <ClCompile Include="program\ChargeUI.cpp" />
     <ClCompile Include="program\Enemy.cpp" />
     <ClCompile Include="program\Game.cpp" />
     <ClCompile Include="program\GameScene.cpp" />
